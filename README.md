@@ -32,6 +32,6 @@ pip install streamlit pandas xlsxwriter
 
 ## Run the App  
 ```bash
-streamlit run chaits.py   #join5 is the main app file
+streamlit run chaits.py   #this is the main app file
 ```
 
